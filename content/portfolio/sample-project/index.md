@@ -13,6 +13,7 @@ testimonial:
   role: CEO @Example
   image: sample-project/john.jpg
   text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+draft: true
 ---
 
 This would be a description of your sample project. You can add any content you'd like.
