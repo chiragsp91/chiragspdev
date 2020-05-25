@@ -3,6 +3,7 @@ title: Shortcodes
 description: Exaplanation on the shortcodes with personal-web
 date: 2019-04-29T16:18:12+01:00
 publishDate: 2019-04-29T19:12:12+01:00
+draft: true
 ---
 
 Introduction of the shortcodes defined in the personal-web theme.
