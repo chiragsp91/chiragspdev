@@ -1,10 +1,12 @@
 ---
 title: ABOUT
-description: Hey, I'm Edna West
-images: ["/images/sample.jpg"]
+description: Hey, I'm Chirag S P
+images: ["/images/chiragsp.jpg"]
 ---
 
 
-This is my about page. :wave:
+Hey there :wave:
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+Just your typical programmer working in Bangalore. I usually dabble with Java at work. And also some python code when I want to automate something.
+
+I'm an electronics gradute from Mangalore and I like spend my free time reading space fiction books and crack lames jokes that no one finds funny. &#128516;

@@ -1,13 +1,12 @@
 ---
 title: HOME
 description: Welcome to this sample project
-images: ["/images/sample.jpg"]
+images: ["/images/chiragsp.jpg"]
 ---
 
 Hey,
 
-I'm Edna West, a Web Developer and Entrepreneur.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+I'm a software developer with 7 years of experience in Java, python and javascript.
+My interests include coding , travelling, biking and in general having a chill attitude.
 
 [Get to know me better](/about "Get to know me better")

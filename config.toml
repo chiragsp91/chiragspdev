@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Chirag :wave:"
-  sub = "I'm a Software Developer and avid traveller"
+  main = "Hey, I'm Chirag :wave:"
+  sub = "Programmer and avid traveller"
 
 [taxonomies]
   design = "designs"
@@ -37,27 +37,27 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = "/images/red-hot-air-balloon-on-sky.jpg"
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "/images/profilePic.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
+  github = "https://github.com/chiragsp91?tab=repositories"
+  twitter = "https://twitter.com/chiragsp91"
   linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
+  #medium = "https://medium.com/"
+  #codepen = "https://codepen.io/"
+  #facebook = "https://www.facebook.com/"
+  #youtube = "https://www.youtube.com/"
+  instagram = "https://www.instagram.com/chirag.sp/"
+  #gitlab = "https://gitlab.com/"
+  #keybase = "https://keybase.io/"
 
 [params.contact]
-  email = ""
+  email = "chiragsp49@gmail.com"
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
