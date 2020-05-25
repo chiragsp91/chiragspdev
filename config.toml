@@ -1,8 +1,8 @@
-baseURL = ""
+baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Chirag SP"
+title = "Chirag S P"
 theme = "personal-web"
-copyright="© Chirag SP"
+copyright="© Chirag S P"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Chirag S P :wave:"
-  sub = "I'm a Software developer and avid traveller"
+  main = "Hi, I'm Chirag :wave:"
+  sub = "I'm a Software Developer and avid traveller"
 
 [taxonomies]
   design = "designs"
