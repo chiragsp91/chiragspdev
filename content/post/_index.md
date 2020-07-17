@@ -3,4 +3,4 @@ title: POST
 description: 'Posts Section'
 ---
 
-Coming soon!
+My thoughts about tech and productivity etc.
