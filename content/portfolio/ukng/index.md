@@ -1,19 +1,13 @@
 ---
-title: UKNG
-description: A desktop tool by Subex for telecom operators
-date: "2017-07-01T19:47:09+02:00"
-jobDate: 2017
-work: [development]
-techs: [Java, DotNet , PLSQL]
-# designs: [Photoshop]
-thumbnail: ukng/telephones.jpg
-# projectUrl: https://www.sampleorganization.org
-# testimonial:
-#   name: John Doe
-#   role: CEO @Example
-#   image: sample-project/john.jpg
-#   text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+title: "UKNG"
+date: 2017-07-01
+slug: "portfolio-ukng"
+description: "A desktop tool by Subex for telecom operators"
+keywords: ["Java" , "DotNet" , "PLSQL" , "Swagger UI"]
 draft: false
+tags: ["Java" , "DotNet" , "PLSQL" , "Swagger UI"]
+math: false
+toc: false
 ---
 
 The work on this tool was done during my tenure in Subex private limited. Subex is basically telecom software coming. They have many tools to calculate revenue for telecom companies based on thier CDR (call data records).

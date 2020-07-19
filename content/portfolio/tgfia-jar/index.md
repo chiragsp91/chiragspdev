@@ -1,19 +1,13 @@
 ---
-title: Opentext TGO portal TGFIA Jar
-description: This a maodule part of larger TGO portal
-date: "2019-12-01T19:47:09+02:00"
-jobDate: 2019
-work: [developement]
-techs: [Java 6/8, Tomcat 6/8.5 , SOAP API , REST API(Jersey 2), Struts 2]
-# designs: [Photoshop]
-thumbnail: tgfia-jar/programming1.jpg
-# projectUrl: https://www.sampleorganization.org
-# testimonial:
-#   name: John Doe
-#   role: CEO @Example
-#   image: sample-project/john.jpg
-#   text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+title: "Opentext TGO portal TGFIA Jar"
+date: 2019-12-01
+slug: "portfolio-tgfia-jar"
+description: "This a maodule part of larger TGO portal"
+keywords: ["Java" , "Tomcat" , "SOAP API" , "Jersey 2" , "Struts 2"]
 draft: false
+tags: ["Java" , "Tomcat" , "SOAP API" , "Jersey 2" , "Struts 2"]
+math: false
+toc: false
 ---
 
 This product was part of a larger TGO application in Opentext - which is a large enterprise application that is used to manager mailboxes by different companies

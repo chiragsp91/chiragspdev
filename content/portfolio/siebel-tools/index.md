@@ -1,15 +1,13 @@
 ---
-title: Siebel Tools
-description: Siebel is CRM tool used by multiple companies to collect information about incident, complaints or leads, opportunities from their customers.
-
-date: "2014-12-31T19:47:09+02:00"
-jobDate: 2014
-work: [crm , development ]
-techs: [Siebel UI, Siebel Tools]
-# designs: [Photoshop]
-thumbnail: siebel-tools/sbl.png
-# projectUrl: https://www.sampleorganization.org
+title: "Siebel Tools"
+date: 2014-12-31
+slug: "portfolio-sibel-tools"
+description: "Siebel is CRM tool used by multiple companies to collect information about incident, complaints or leads, opportunities from their customers."
+keywords: ["Siebel UI" , "Siebel Tools"]
 draft: false
+tags: ["Siebel UI" , "Siebel Tools"]
+math: false
+toc: false
 ---
 
 Basically Siebel is a customer management tool provided by Oracle.  It has GUI part handled by agents and Siebel Tools part used by Siebel developers to change or add new features to Siebel CRM.

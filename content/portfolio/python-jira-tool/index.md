@@ -1,19 +1,13 @@
 ---
-title: JRobot
-description: The aim here is to a clean and simple dashboard that displays all the time spent per day for each task, subtask, service request or bug in Jira.
-date: "2020-05-02T19:47:09+02:00"
-jobDate: 2020
-work: [design, developement]
-techs: [Python 3 , Flask , Waitress Web Server, Jira APIs]
-# designs: [Photoshop]
-thumbnail: python-jira-tool/python-logo.png
-# projectUrl: https://www.sampleorganization.org
-# testimonial:
-#   name: John Doe
-#   role: CEO @Example
-#   image: sample-project/john.jpg
-#   text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+title: "JRobot"
+date: 2020-05-02
+slug: "portfolio-jira-python"
+description: "The aim here is to a clean and simple dashboard that displays all the time spent per day for each task, subtask, service request or bug in Jira."
+keywords: ["Python 3" , "Flask" , "Waitress Web Server" , "Jira APIs"]
 draft: false
+tags: ["Python 3" , "Flask" , "Waitress Web Server" , "Jira APIs"]
+math: false
+toc: false
 ---
 
 This is a python tool that displays the time spent in each worklogs for the current week. It is displayed by diving the time spent for each week. 

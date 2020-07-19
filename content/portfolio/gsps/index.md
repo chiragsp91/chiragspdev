@@ -1,13 +1,15 @@
 ---
-title: GSPS
-description: An online tool by Subex for telecom operators
-date: "2018-07-30T19:47:09+02:00"
-jobDate: 2018
-work: [dvelopement]
-techs: [Java , GWT , PLSQL , Tomcat 8]
-thumbnail: gsps/telecome1.jpg
+title: "GSPS"
+date: 2018-07-20
+slug: "portfolio-gsps"
+description: "An online tool by Subex for telecom operators"
+keywords: ["Java", "GWT", "PLSQL", "Tomcat 8"]
 draft: false
+tags: ["Java", "GWT", "PLSQL", "Tomcat 8"]
+math: false
+toc: false
 ---
+<!-- {{< figure src="/portfolio/gsps/telecome1.jpg" caption="" >}}-->
 
 Subex has a product for partner settlement for telecom operators called 'Partner Settlement(PS)'. GSPS is a version of PS build specially for British Telecom.
 

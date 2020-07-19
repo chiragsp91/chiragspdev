@@ -1,11 +1,16 @@
 ---
-title: Jira APIs in a Python app
-description: How to build an web app using Jira APIs in Python
-date: "2020-07-17T13:11:05+30:00"
-publishDate: "2020-07-17T13:49:05+30:00"
-#draft: true
+title: "Jira APIs in a Python app"
+date: 2020-07-17
+slug: "blog-1"
+description: "How to build an web app using Jira APIs in Python"
+keywords: ["blog", "tech-blog", "jira", "python"]
+draft: false
+tags: ["blog", "tech-blog", "jira", "python"]
+math: false
+toc: false
 ---
-{{< figure src="/post/images/python-logo.png" caption="" >}}
+
+{{< figure src="/blog/images/python-logo.png" caption="" >}}
 
 Imagine your filling your Jira tasks everyday and by the end of the week you wonder, can I find the total number of hours logged in Jira.
 

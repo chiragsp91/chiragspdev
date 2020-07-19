@@ -1,19 +1,13 @@
 ---
-title: Opentext TGO - TGFIA Services
-description: This a maodule part of larger TGO portal
-date: "2020-06-02T19:47:09+02:00"
-jobDate: 2020
-work: [developement]
-techs: [Java 8 , Tomcat 8 , Sring Boot 3 , Swagger UI , Oracle 11g , Ansible , New Relic]
-# designs: [Photoshop]
-thumbnail: tgfia-services/programming2.jpg
-# projectUrl: https://www.sampleorganization.org
-# testimonial:
-#   name: John Doe
-#   role: CEO @Example
-#   image: sample-project/john.jpg
-#   text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+title: "Opentext TGO - TGFIA Services"
+date: 2020-06-02
+slug: "portfolio-tgfia-services"
+description: "This a maodule part of larger TGO portal"
+keywords: ["Java" , "Tomcat" , "Spring Boot" , "Swagger UI" , "Oracle 11g", "Ansible" , "New Relic"]
 draft: false
+tags: ["Java" , "Tomcat" , "Spring Boot" , "Swagger UI" , "Oracle 11g", "Ansible" , "New Relic"]
+math: false
+toc: false
 ---
 
 This product was part of a larger TGO application - which is a large enterprise application that is used to manager mailboxes by different companies
