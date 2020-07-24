@@ -1,7 +1,7 @@
 ---
 title: "Jira APIs in a Python app"
 date: 2020-07-17
-slug: "blog1"
+slug: "python-jira"
 description: "How to build an web app using Jira APIs in Python"
 keywords: ["blog", "tech-blog", "jira", "python"]
 draft: false

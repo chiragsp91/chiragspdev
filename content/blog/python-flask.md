@@ -1,7 +1,7 @@
 ---
 title: "Setup a python flask application"
 date: 2020-07-21
-slug: "blog2"
+slug: "python-flask"
 description: "How to setup a python flask application"
 keywords: ["blog", "tech-blog", "flask", "python"]
 draft: false
