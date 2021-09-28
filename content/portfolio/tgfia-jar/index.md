@@ -4,7 +4,7 @@ date: 2019-12-01
 slug: "portfolio-tgfia-jar"
 description: "This a maodule part of larger TGO portal"
 keywords: ["Java" , "Tomcat" , "SOAP API" , "Jersey 2" , "Struts 2"]
-draft: false
+draft: true
 tags: ["Java" , "Tomcat" , "SOAP API" , "Jersey 2" , "Struts 2"]
 math: false
 toc: false
