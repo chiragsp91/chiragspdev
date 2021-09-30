@@ -4,7 +4,7 @@ date: 2020-06-02
 slug: "portfolio-tgfia-services"
 description: "This a maodule part of larger TGO portal"
 keywords: ["Java" , "Tomcat" , "Spring Boot" , "Swagger UI" , "Oracle 11g", "Ansible" , "New Relic"]
-draft: false
+draft: true
 tags: ["Java" , "Tomcat" , "Spring Boot" , "Swagger UI" , "Oracle 11g", "Ansible" , "New Relic"]
 math: false
 toc: false
