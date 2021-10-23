@@ -27,7 +27,7 @@ To do this effectively I employ notion. Notion's biggest advantage are
 
 Below is the link for the financial tracker template I use. You can duplicate this template and personalize for your own convenience.
 
-https://zircon-samba-1ee.notion.site/fea0f23c56aa4fbe8eeaa87eae7815e1?v=c72e92d52e364074b17c0053db0cce01
+[Notion Finance Template](https://zircon-samba-1ee.notion.site/fea0f23c56aa4fbe8eeaa87eae7815e1?v=c72e92d52e364074b17c0053db0cce01)
 
 In this template I've basically divided it into 
 
