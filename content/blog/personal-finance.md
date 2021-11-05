@@ -1,6 +1,6 @@
 ---
 title: "Personal Finance - Notion Template"
-date: 2020-07-27
+date: 2021-10-03
 slug: "personal finance"
 description: "Blog on personal finance Notion template"
 keywords: ["blog", "fin-blog"]
@@ -19,7 +19,7 @@ My philosophy for financial discipline is simple,
 2. It should factor in my emotional state
 3. I should see my goal every time I see my financial tracker.
 
-To do this effectively I employ notion. Notion's biggest advantage are 
+To do this effectively I employ notion. Notion's biggest advantages are,
 
 1. Its simple to use and gives almost all features of excel
 2. It has a good desktop site and a mobile app
