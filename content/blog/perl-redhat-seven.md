@@ -4,7 +4,7 @@ date: 2021-11-05
 slug: "perl-redhat"
 description: "Steps involved in migrating Perl application from Redhat5 to Redhat 7"
 keywords: ["blog", "tech-blog","perl"]
-draft: true
+draft: false
 tags: ["blog", "tech-blog"]
 math: false
 toc: false
