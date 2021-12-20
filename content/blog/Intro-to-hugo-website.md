@@ -120,10 +120,10 @@ That's it! The blog is up and running. Its that simple to setup a blog site usin
   ```
   hugo server -D
   ```
+  
+  ![First Hugo page in local](/blog/images/firstHugoPage.png)
 
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4bb97e10-eb22-46f9-b651-1530c0b167fc/Untitled.png)
-
-  Further configuration for the site can be done in `config.toml` file. Consider below example of the same,
+  **Further configuration for the site can be done in `config.toml` file**. Consider below example for the same,
 
   ```
   # DO NOT REMOVE THIS
@@ -265,8 +265,8 @@ That's it! The blog is up and running. Its that simple to setup a blog site usin
   | www.example.com | CNAME | 1 hour | example.com |
   
   Then set the primary domain as your domain 'example.com' in Netifly. Under Domains→Custom Domains.
-
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b2bd2d4d-888d-4a5d-94a0-3fdc7f7dd6e1/Untitled.png)
+  
+  ![Netifly Custom Domain Page](/blog/images/customDomain.png)
 
 ## 4. SSL Certificate setup
 
