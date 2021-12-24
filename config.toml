@@ -1,8 +1,10 @@
-baseurl = "/"
+# DO NOT REMOVE THIS
+theme = "mainroad" 
+
+baseurl = "https://chiragsp.dev/"
 title = "Chirag's Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = "mainroad"
 disqusShortname = "chiragsp91" # Enable Disqus comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
@@ -64,8 +66,3 @@ disqusShortname = "chiragsp91" # Enable Disqus comments by entering your Disqus 
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
-
-[Params.widgets.social]
-  # Enable parts of social widget
-  github = "chiragsp91"
-  email = "chiragsp91@gmail.com"
