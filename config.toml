@@ -1,73 +1,71 @@
-# DO NOT REMOVE THIS
-theme = "hugo-theme-codex" 
-
-# Override these settings with your own
-title = "Chirag S P Blog"
+baseurl = "/"
+title = "Chirag's Blog"
 languageCode = "en-us"
-baseURL = "https://chiragsp.dev/"
-copyright = "© {year}"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "chiragsp91" # Enable Disqus comments by entering your Disqus shortname
+#googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
-# Add your Disqus shortname here.
-# disqusShortname = "Chirag"
+[Author] # Used in authorbox
+  name = "Chirag S P"
+  bio = "A avid coder, traveller and a productivity geek."
+  avatar = "images/gopher.png"
 
-# Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
+[Params]
+  description = "This is Chirag's personal Blog. Find articles on coding and some productivity tips." # Site description. Used in meta description
+  copyright = "chiragsp.dev" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
 
-# Optional params
-[params]
-  # Follow the Hugo date/time format reference here: 
-  # https://gohugo.io/functions/format/#gos-layout-string
-  dateFormat = "Jan 2 2006"
+  # DEPRECATED PARAMS
+  subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
+  highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
 
-  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  twitter = "https://twitter.com/chiragsp91"
-  github = "https://github.com/chiragsp91?tab=repositories"
-  email = "mailto:chiragsp91@gmail.com"
-  # facebook = "https://facebook.com/<your handle>"
-  # gitlab = "https://gitlab.com/<your handle>"
-  # instagram = "https://instagram.com/<your handle>"
-  linkedin = "https://www.linkedin.com/in/"
-  # youtube = "https://www.youtube.com/channel/<your channel>"
-  
-  # Titles for your icons (shown as tooltips), and also their display order.
-  # Currently, these icons are supported: 
-  #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconTitles = ["Twitter", "GitHub","Email","LinkedIn"]
+[Params.style.vars]
+  highlightColor = "#e22d30" # Override highlight color
 
-  # Metadata for Twitter cards, defaults to params.twitter
-  # twitterSite = "@<your handle>"
-  # twitterAuthor = "@<your handle>"
+  # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
-# This disables Hugo's default syntax highlighting in favor
-# of prismjs. If you wish to use Hugo's default syntax highlighting
-# over prismjs, remove this. You will also need to remove the prismjs
-# vendor script in layouts/blog/single.html.
-[markup]
-  [markup.highlight]
-    codeFences = false
-    
-  # Set to false to disallow raw HTML in markdown files
-  [markup.goldmark.renderer]
-      unsafe = true
+[Params.logo]
+  image = "/images/logo.png" # Logo image. Path relative to "static"
+  title = "Chirag's Blog" # Logo title, otherwise will use site title
+  subtitle = "All things Tech and a little bit of something else" # Logo subtitle
 
-# Controls the navigation
-[[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
-  url = "/"
-  weight = -120
+[Params.thumbnail]
+  visibility = ["list", "post"] # Control thumbnail visibility
 
-[[menu.main]]
-  identifier = "portfolio"
-  name = "portfolio"
-  title = "portfolio"
-  url = "/portfolio/"
-  weight = -110
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+  # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
-[[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "blog"
-  url = "/blog/"
-  weight = -100
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  github = "chiragsp91"
+  email = "chiragsp91@gmail.com"

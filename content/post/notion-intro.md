@@ -1,13 +1,18 @@
 ---
 title: "Intro to notion "
 date: 2020-07-24
-slug: "notion-intro"
 description: "A quick introduction to note taking app notion"
-keywords: ["blog", "tech-blog", "productivity"]
-draft: false
-tags: ["blog", "tech-blog", "productivity"]
-math: false
+categories:
+  - "Productivity"
+tags: 
+    - "Productivity"
+    - "Notion"
+#math: false
+lead: "Get started with notion"
+comments: true
+mathjax: true
 toc: false
+#menu: main
 ---
 
 Human mind is complex machine , it can do so many things so well, but the area where it lacks is definitely perfect recall. Though it looks cool in movies when the main character is able to remember the situation exactly, in real life its much more muckier.
@@ -28,6 +33,6 @@ So why don't download and start exploring. I can maybe elaborate on some additio
 
 Some screenshots of my personal Notion app
 
-{{< figure src="/blog/images/notion-screenshot1.png" caption=" " >}}
+{{< figure src="/images/notion-screenshot1.png" caption=" " >}}
 
-{{< figure src="/blog/images/notion-screenshot1.png" caption=" " >}}
+{{< figure src="/images/notion-screenshot1.png" caption=" " >}}

@@ -1,13 +1,18 @@
 ---
 title: "How to build a website in under 10 minutes"
 date: 2021-12-18
-slug: "hugo tutorial"
 description: "A tutorial on how to deploy website quickly using Hugo framework"
-keywords: ["blog", "tech-blog", "hugo"]
-draft: false
-tags: ["blog", "tech-blog", "hugo"]
-math: false
+categories:
+  - "Development"
+tags: 
+    - "Development"
+    - "Hugo"
+#math: false
+lead: "A step by step guide to deploy website using Hugo"
+comments: true
+mathjax: true
 toc: false
+#menu: main
 ---
 A static website is website where pages are generated in server side and same is served to client side. This can be a quick and easy way to setup a website.
 This allows developers to decouple front end and content. This provides the ability to run a website without setting up a database.
@@ -121,7 +126,7 @@ That's it! The blog is up and running. Its that simple to setup a blog site usin
   hugo server -D
   ```
   
-  ![First Hugo page in local](/blog/images/firstHugoPage.png)
+  ![First Hugo page in local](/images/firstHugoPage.png)
 
   **Further configuration for the site can be done in `config.toml` file**. Consider below example for the same,
 
@@ -266,7 +271,7 @@ That's it! The blog is up and running. Its that simple to setup a blog site usin
   
   Then set the primary domain as your domain 'example.com' in Netifly. Under Domains→Custom Domains.
   
-  ![Netifly Custom Domain Page](/blog/images/customDomain.png)
+  ![Netifly Custom Domain Page](/images/customDomain.png)
 
 ## 4. SSL Certificate setup
 

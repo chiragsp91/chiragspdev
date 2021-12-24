@@ -1,13 +1,19 @@
 ---
 title: "Multi-tenancy using Spring Boot and Hibernate"
 date: 2021-11-13
-slug: "spring-boot"
 description: "Implement Multi-tenancy using Spring boot"
-keywords: ["blog", "tech-blog","java","hibernate"]
-draft: false
-tags: ["blog", "tech-blog","java","hibernate"]
-math: false
+categories:
+  - "Development"
+tags: 
+    - "Development"
+    - "Spring Boot"
+    - "Java"
+#math: false
+lead: "Implement Multi-tenancy using Spring boot"
+comments: true
+mathjax: true
 toc: false
+#menu: main
 ---
 In modern Sass applications, a single application can be used by multiple companies(tenant). There are three ways with which one can divide an application by,
 

@@ -1,13 +1,17 @@
 ---
 title: "How to use POSTMAN Application"
 date: 2020-07-25
-slug: "postman-intro"
 description: "A quick introduction on how to use postman"
-keywords: ["blog", "tech-blog", "rest" , "api"]
-draft: false
-tags: ["blog", "tech-blog", "rest" , "api"]
-math: false
+categories:
+  - "Development"
+tags: 
+    - "Development"
+    - "Postman"
+lead: "A Postman setup guide"
+comments: true
+mathjax: true
 toc: false
+#menu: main
 ---
 
 REST APIs being gold standard in the industry these days , every application uses REST APIs. 
@@ -21,7 +25,7 @@ This is were postman comes in. Postman provides a comprehensive set of tools to 
 [Download Postman App](https://www.postman.com/downloads/)
 
 ### Step 2: Once you download postman, you should have something like as shown below
-{{< figure src="/blog/images/postman-1.png" caption=" " >}}
+{{< figure src="/images/postman-1.png" caption=" " >}}
 
 
 ### Step 3:  Let us setup an example GET request.
@@ -31,26 +35,26 @@ To test postman we will using sample APIs provided by POSTMAN. We can get the sa
 [Postman Echo](https://docs.postman-echo.com/?version=latest)
 
 We will use an GET request as below
-{{< figure src="/blog/images/postman-2.png" caption=" " >}}
+{{< figure src="/images/postman-2.png" caption=" " >}}
 
 
 ### Step 4: Now lets do a POST request
 
 We will use a POST request as below
-{{< figure src="/blog/images/postman-3.png" caption=" " >}}
+{{< figure src="/images/postman-3.png" caption=" " >}}
 
 
 Similarly if you intent to PUT and POST , can change the type of request here ,
-{{< figure src="/blog/images/postman-4.png" caption=" " >}}
+{{< figure src="/images/postman-4.png" caption=" " >}}
 
 
 ### Bonus Step: How to send JSON/XML or file as input
 
 You can set the JSON/XML body to send as shown below
-{{< figure src="/blog/images/postman-5.png" caption=" " >}}
+{{< figure src="/images/postman-5.png" caption=" " >}}
 
 The way to send file as a input in POSTMAN is as shown below
-{{< figure src="/blog/images/postman-6.png" caption=" " >}}
+{{< figure src="/images/postman-6.png" caption=" " >}}
 
 
 

@@ -1,13 +1,19 @@
 ---
 title: "Programming 101"
 date: 2020-07-30
-slug: "programming101"
-description: "A introduction to a 5 part series on basics of Programming"
-keywords: ["blog", "tech-blog", "course" , "python"]
-draft: false
-tags: ["blog", "tech-blog", "course" , "python"]
-math: false
+description: "An introduction to a 5 part series on basics of Programming"
+categories:
+  - "Development"
+  - "Tutorial"
+tags: 
+    - "Development"
+    - "Python"
+#math: false
+lead: "An introduction to a 5 part series on basics of Programming"
+comments: true
+mathjax: true
 toc: false
+menu: main
 ---
 # Introduction:
 
@@ -15,7 +21,7 @@ I come from non-computer science background, so when I first encountered code in
 
 It took me a while to realize, that computers are just glorified calculators. For a better analogy, imagine a hill, with a road built downhill to avoid obstacles, and a car driving downhill in that road.
 
-{{< figure src="/blog/images/programming101-intro.jpg" caption=" " >}}
+{{< figure src="/images/programming101-intro.jpg" caption=" " >}}
 
 Here the hill is the computer, your code is the road which you design to avoid obstacles and the car is like current(power) coming from the power socket. So you need to design everything on that road,  the road elevation , the signs and everything. You cannot trust the driver to make all the wise(correct) decisions. This pretty much explains what you basically do with coding. Your just building the road for the computer to run on.
 

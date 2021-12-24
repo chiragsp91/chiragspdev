@@ -1,13 +1,17 @@
 ---
 title: "How to work with Deep focus"
 date: 2021-11-23
-slug: "work"
 description: "Ways to focus deeply at work"
-keywords: ["blog", "work","personal"]
-draft: false
-tags: ["blog", "work","personal"]
-math: false
+categories:
+  - "Productivity"
+tags: 
+    - "Productivity"
+#math: false
+lead: "Work with deep concentration"
+comments: true
+mathjax: true
 toc: false
+#menu: main
 ---
 In our day-to-day lives we have plenty of distractions. With the advent of every new technology , the number of distractions keep increasing.
 
