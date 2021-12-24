@@ -1,8 +1,10 @@
-baseurl = "/"
+# DO NOT REMOVE THIS
+theme = "mainroad" 
+
+baseurl = "https://chiragsp.dev/"
 title = "Chirag's Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = "mainroad"
 disqusShortname = "chiragsp91" # Enable Disqus comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
