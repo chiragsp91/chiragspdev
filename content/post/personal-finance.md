@@ -1,13 +1,17 @@
 ---
 title: "Personal Finance - Notion Template"
 date: 2021-10-03
-slug: "personal finance"
 description: "Blog on personal finance Notion template"
-keywords: ["blog", "fin-blog"]
-draft: false
-tags: ["blog", "fin-blog"]
-math: false
+categories:
+  - "Productivity"
+tags: 
+    - "Productivity"
+    - "Notion"
+lead: "Track your finances using notion template"
+comments: true
+mathjax: true
 toc: false
+#menu: main
 ---
 Finance tracking is essential if we need to track our expense  and to avoid lifestyle inflation.
 

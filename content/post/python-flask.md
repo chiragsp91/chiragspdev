@@ -1,16 +1,22 @@
 ---
 title: "Setup a python flask application"
 date: 2020-07-21
-slug: "python-flask"
 description: "How to setup a python flask application"
-keywords: ["blog", "tech-blog", "flask", "python"]
-draft: false
-tags: ["blog", "tech-blog", "flask", "python"]
-math: false
+categories:
+  - "Development"
+tags: 
+    - "Development"
+    - "Flask"
+    - "Python"
+#math: false
+lead: "How to setup a python flask application"
+comments: true
+mathjax: true
 toc: false
+#menu: main
 ---
 
-{{< figure src="/blog/images/flask-python.png" caption="">}}
+{{< figure src="/images/flask-python.png" caption="">}}
 
 Python being one of most used language in the world, its very east to develop web application using Python.
 
