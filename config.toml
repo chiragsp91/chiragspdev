@@ -5,7 +5,7 @@ baseurl = "https://chiragsp.dev/"
 title = "Chirag's Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-disqusShortname = "chiragsp" # Enable Disqus comments by entering your Disqus shortname
+disqusShortname = "chiragsp-dev" # Enable Disqus comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
