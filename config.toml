@@ -5,7 +5,7 @@ baseurl = "https://chiragsp.dev/"
 title = "Chirag's Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-disqusShortname = "chiragsp91" # Enable Disqus comments by entering your Disqus shortname
+disqusShortname = "chiragsp" # Enable Disqus comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
@@ -48,7 +48,7 @@ disqusShortname = "chiragsp91" # Enable Disqus comments by entering your Disqus 
 [Params.logo]
   image = "/images/logo.png" # Logo image. Path relative to "static"
   title = "Chirag's Blog" # Logo title, otherwise will use site title
-  subtitle = "All things Tech and a little bit of something else" # Logo subtitle
+  subtitle = "All things Tech and everything else" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility

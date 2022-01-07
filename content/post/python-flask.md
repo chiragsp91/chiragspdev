@@ -13,6 +13,8 @@ lead: "How to setup a python flask application"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 

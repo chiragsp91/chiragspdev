@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2020-01-01
+#date: 2020-01-01
 description: "A short description about me"
 #math: false
 lead: "A short description about me"

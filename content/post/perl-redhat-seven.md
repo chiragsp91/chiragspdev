@@ -12,6 +12,8 @@ lead: "Steps involved in migrating Perl application"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 One fine day, I was assigned a project to migrate a perl application( written in the 90s) to Redhat 7 from Redhat 5. Mind you I am a Java developer, but i pride myself in learning anything and everything. So i confidently took in this project as well. Little did I know, the weeks of hell I had to endure to do complete this assignment. So in order to help someone in future below are the steps I followed.

@@ -13,6 +13,8 @@ lead: "Implement Multi-tenancy using Spring boot"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 In modern Sass applications, a single application can be used by multiple companies(tenant). There are three ways with which one can divide an application by,

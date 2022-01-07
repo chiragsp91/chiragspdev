@@ -11,6 +11,8 @@ lead: "Track your finances using notion template"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 Finance tracking is essential if we need to track our expense  and to avoid lifestyle inflation.

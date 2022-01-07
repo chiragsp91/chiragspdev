@@ -12,6 +12,8 @@ lead: "A step by step guide to deploy website using Hugo"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 A static website is website where pages are generated in server side and same is served to client side. This can be a quick and easy way to setup a website.

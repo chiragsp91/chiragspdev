@@ -13,6 +13,8 @@ lead: "How to build an web app using Jira APIs in Python"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 
