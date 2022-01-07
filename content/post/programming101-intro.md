@@ -14,6 +14,8 @@ comments: true
 mathjax: true
 toc: false
 menu: main
+authorbox: true
+sidebar: "right" 
 ---
 # Introduction:
 

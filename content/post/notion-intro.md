@@ -12,6 +12,8 @@ lead: "Get started with notion"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 

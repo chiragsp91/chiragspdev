@@ -14,6 +14,8 @@ lead: "Setup Spring Boot Rest API war in Docker"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 {{< figure src="/images/ship.jpg" caption=" " >}}

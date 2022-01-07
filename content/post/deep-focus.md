@@ -11,6 +11,8 @@ lead: "Work with deep concentration"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 In our day-to-day lives we have plenty of distractions. With the advent of every new technology , the number of distractions keep increasing.

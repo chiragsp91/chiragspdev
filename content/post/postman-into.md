@@ -11,6 +11,8 @@ lead: "A Postman setup guide"
 comments: true
 mathjax: true
 toc: false
+authorbox: true
+sidebar: "right" 
 #menu: main
 ---
 
