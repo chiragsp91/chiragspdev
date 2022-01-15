@@ -19,7 +19,7 @@ authorbox: true
 sidebar: "right" 
 #menu: main
 ---
-{{< figure src="/images/heroku-image.png" caption=" " >}}
+{{< figure src="/images/heroku-image-symbol.png" caption=" " >}}
 Imagine you and your buddy are developing a Spring boot Rest application using Java 11. To make it run consistently in yours and your buddy’s machine you decide to setup Sprint boot jar in Docker.
 
 Now the docker setup is done, you want to release it to world and announce it in Product hunt.
