@@ -26,7 +26,8 @@ Just to give a brief on how programming started, initially `Punch cards` as show
 {{< figure src="/images/used-punchcard.jpg" caption=" " >}}
 
 Using Punch Cards, 0s and 1s could be stored. 
-But what is 0 and 1 in world of an electronic device? 0 is when current does not flow, and 1 is when current flows. So basically nothing but a ON and OFF switch. Tts kinda weird isn't it ? all that a computer can understand is ON and OFF and still we are able program it to do so many complex things. 
+
+But what is 0 and 1 in world of an electronic device? 0 is when current does not flow, and 1 is when current flows. So basically nothing but a ON and OFF switch. Its kinda weird isn't it ? all that a computer can understand is ON and OFF and still we are able program it to do so many complex things. 
 
 So now the next question that you might ask is , how does memory storage works in a computer system, How does the computer remember ? There are many complex algorithms and such, basically it boils down to the concept of gates. 
 
@@ -46,6 +47,6 @@ We can use these languages to basically run some computations, and these languag
 
 As a basic introduction to Programming I will start with Python. Python being one of the most used languages is also very easy to learn. It very readable and easy to understand.
 
- Head over to the next article to get an intro to Python programming language.
+Head over to the next article to get an intro to Python programming language.
 
  
