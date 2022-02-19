@@ -13,7 +13,7 @@ lead: "An introduction to programming for a non-programmer"
 comments: true
 mathjax: true
 toc: false
-menu: main
+menu: footer
 authorbox: true
 sidebar: "right" 
 ---
