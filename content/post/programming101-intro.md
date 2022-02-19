@@ -32,7 +32,7 @@ So coming back from the imaginary world, I will start this crash course with the
 I have divided this into 5 short articles. Hope this crash course helps you to understand the world of programming.
 
 ## Course Syllabus
-1. What is Programming
+1. [What is Programming](/post/what-is-programming/)
 2. Python Intro - Python Basics
 3. Python - functions , pips
 4. Python - Classes and Object
